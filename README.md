@@ -1,5 +1,5 @@
 
-<h2 align="center"> ✋ This is Me 🤚 </h2>
+<h2 align="center"> Hi there, I'm MinKyu Heo! 🤚 </h2>
 <p align="center"><a href="https://heo-dev-0229.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
@@ -7,7 +7,7 @@
 </a></p>
 
 <h3 align="center"> 관심분야 </h2>
-<p align="center">프론트엔드 개발자로 가진 재주로서 사람들의 문제를 해결하는데 관심이 있습니다.<br/>I want to give people fun and convenience.</p> 
+<p align="center">프론트엔드 개발자로 가진 재주로써 사람들의 문제를 해결하는데 관심이 있습니다.<br/>I want to give people fun and convenience.</p> 
 
 <h3 align="center"> 강점 </h2>
 <p align="center">Always like learning something new.<br/>Experience working for a financial institution</p> 
