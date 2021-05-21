@@ -6,10 +6,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<h3 align="center"> Interest </h2>
-<p align="center">Gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
+<h3 align="center"> 관심분야 </h2>
+<p align="center">프론트엔드 개발자로 가진 재주로서 사람들의 문제를 해결하는데 관심이 있습니다.<br/>I want to give people fun and convenience.</p> 
 
-<h3 align="center"> Strength </h2>
+<h3 align="center"> 강점 </h2>
 <p align="center">Always like learning something new.<br/>Experience working for a financial institution</p> 
 
     
