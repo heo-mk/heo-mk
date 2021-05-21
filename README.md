@@ -7,7 +7,7 @@
 </a></p>
 
 <h3 align="center"> 관심분야 </h2>
-<p align="center">프론트엔드 개발자로 가진 재주로써 사람들의 문제를 해결하는데 관심이 있습니다.<br/>I want to give people fun and convenience.</p> 
+<p align="center">프론트엔드 개발자로 가진 재주로써 사람들의 문제를 해결하는데 관심이 있습니다.<br/>그러면서 즐거움도 주고자 합니다.</p> 
 
 <h3 align="center"> 강점 </h2>
 <p align="center">Always like learning something new.<br/>Experience working for a financial institution</p> 
