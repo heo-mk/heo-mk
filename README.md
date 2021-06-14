@@ -25,6 +25,10 @@ My ultimate goal is to become a IT developer who can solve customers' problems.<
 If you want to contact me, please leave me a message!
 
 
+### 💶 Education
+- **Bootcamp Hanghae99 (항해99)** - finished the curse | I Learned ReactJS and finished several projects *(Mar 2021 ~ June 2021)*
+- **GIST** - Master's Degree in Material Science and Engineering | using a simulation program based on Quantum Mechanics in Linux *(Mar 2015 - Feb 2017)* 
+
     
 <div align="center" style="display:flex">
     
