@@ -30,11 +30,9 @@ If you want to contact me, please leave me a message!
 - **GIST (광주과학기술원)** - Master's Degree in Material Science and Engineering  |  using a simulation program in Linux *(Mar 2015 - Feb 2017)* 
 <br/>
 
-
 ### 🖋 Work Experience
 - **Sunbo Angel Partners (선보엔젤파트너스 | 스타트업 전문 투자기업)** - Intern in the investment planning team *(Apr 2018 ~ May 2018)*
 <br/>
-
 
 ### 🛠 Qualification
 - **Computer Graphics Operation Specialist (컴퓨터그래픽스운용기능사)** - acquisition date *(Jul 1. 2011)*
@@ -55,7 +53,7 @@ If you want to contact me, please leave me a message!
 
 <h2> 🛠 Tech Stack 🛠 </h2>
 <div style="display:flex">
-<h4> Mainly used </h4>
+<h3> Mainly used </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -67,7 +65,7 @@ If you want to contact me, please leave me a message!
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>         
 <br/>
          
-<h4> I've used at least once </h4>
+<h3> I've used at least once </h3>
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
