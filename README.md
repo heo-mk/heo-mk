@@ -27,8 +27,8 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💶 Education
-- **Bootcamp Hanghae99 (항해99)** - finished the curse  |  Learned ReactJS and finished several projects *(Mar 2021 ~ June 2021)*
-- **GIST (광주과학기술원)** - Master's Degree in Material Science and Engineering  |  using a simulation program in Linux *(Mar 2015 - Feb 2017)* 
+- **Bootcamp Hanghae99 (항해99)** - finished the curse | Learned ReactJS and finished several projects *(Mar 2021 ~ June 2021)*
+- **GIST (광주과학기술원)** - Master's Degree in Material Science and Engineering | used a simulation program in Linux *(Mar 2015 - Feb 2017)* 
 
 ### 🖋 Work Experience
 - **Sunbo Angel Partners (선보엔젤파트너스 | 스타트업 전문 투자기업)** - Intern in the investment planning team *(Apr 2018 ~ May 2018)*
