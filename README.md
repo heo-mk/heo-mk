@@ -4,7 +4,18 @@
   
 <br/>  
 
-## Hi There 👋  
+## Hi There 👋
+
+<a href="https://github.com/heo-mk" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/alkesmse/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/heo_0229/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+</a>
+
 
 <h3 align="center"> 관심분야 </h2>
 <p align="center">프론트엔드 개발자로 가진 재주로써<br/>사람들의 문제를 해결하는데 관심이 있습니다.<br/>그러면서 편리함과 즐거움도 함께 주고 싶습니다.</p> 
