@@ -50,7 +50,7 @@ If you want to contact me, please leave me a message!
 <br/>  
 </div>
 
-<h2> 🛠 Tech Stack 🛠 </h2>
+<h2> 🛠 Tech Stack </h2>
 <div style="display:flex">
 <h3> Mainly used </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -72,7 +72,7 @@ If you want to contact me, please leave me a message!
 </div>
 <br/>
 
-<h2> 📲 Contact 📱 </h2>
+<h2> 📲 Contact </h2>
 
 <p>
 <a href="mailto:alkesmse@gmail.com">
