@@ -23,7 +23,7 @@ I am interested in learning React, JavaScript, TypeScript, SPA, python and algor
 My ultimate goal is to become a dexterous IT developer who can solve customers' problems.<br/>
 
 If you want to contact me, please leave me a message!
-
+<br/>
 
 ### 💶 Education
 - **Bootcamp Hanghae99 (항해99)** - finished the curse  |  Learned ReactJS and finished several projects *(Mar 2021 ~ June 2021)*
