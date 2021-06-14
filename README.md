@@ -20,13 +20,10 @@
 
 I am a Front-End Developer from South Korea a.k.a Republic of Korea. <br/>
 I am interested in learning React, JavaScript, TypeScript, python and algorithm. <br/>
-My ultimate goal is to become a IT developer who can solve customers' problems. 
+My ultimate goal is to become a IT developer who can solve customers' problems.<br/>
 
-<h3 align="center"> 관심분야 </h2>
-<p align="center">프론트엔드 개발자로 가진 재주로써<br/>사람들의 문제를 해결하는데 관심이 있습니다.<br/>그러면서 편리함과 즐거움도 함께 주고 싶습니다.</p> 
+If you want to contact me, please leave me a message!
 
-<h3 align="center"> 강점 </h2>
-<p align="center">모르는 걸 모른다고 인정하고, 배우고 익혀서<br/> 말로 설명하고 코드로 구현할 수준의<br/>진짜 내 지식으로 만드는 태도를 지녔습니다.</p> 
 
     
 <div align="center" style="display:flex">
