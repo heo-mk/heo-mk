@@ -1,10 +1,10 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+</div>  
+  
+<br/>  
 
-<h2 align="center"> Hi there, I'm MinKyu Heo! 🤚 </h2>
-<p align="center"><a href="https://heo-dev-0229.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
+## Hi There 👋  
 
 <h3 align="center"> 관심분야 </h2>
 <p align="center">프론트엔드 개발자로 가진 재주로써<br/>사람들의 문제를 해결하는데 관심이 있습니다.<br/>그러면서 편리함과 즐거움도 함께 주고 싶습니다.</p> 
