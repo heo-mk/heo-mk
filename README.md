@@ -38,7 +38,6 @@ If you want to contact me, please leave me a message!
 
 ### 🛠 Qualification
 - **Computer Graphics Operation Specialist (컴퓨터그래픽스운용기능사)** - acquisition date *(Jul 1. 2011)*
-- **GIST (광주과학기술원)** - Master's Degree in Material Science and Engineering  |  using a simulation program in Linux *(Mar 2015 - Feb 2017)*
 
     
 <div align="center" style="display:flex">
