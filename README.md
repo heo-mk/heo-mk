@@ -51,11 +51,9 @@ If you want to contact me, please leave me a message!
 
 </td></tr></table>  
 <br/>  
-
 </div>
-<br/>
-<h2> 🛠 Tech Stack 🛠 </h2>
 
+<h2> 🛠 Tech Stack 🛠 </h2>
 <div style="display:flex">
 <h4> Mainly used </h4>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
