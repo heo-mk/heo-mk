@@ -19,7 +19,7 @@
 ### Hello, I'm Heo MinKyu!!
 
 I am a Front-End Developer from South Korea a.k.a Republic of Korea. <br/>
-I am interested in learning React, JavaScript, TypeScript, python and algorithm. <br/>
+I am interested in learning React, JavaScript, TypeScript, SPA, python and algorithm. <br/>
 My ultimate goal is to become a IT developer who can solve customers' problems.<br/>
 
 If you want to contact me, please leave me a message!
