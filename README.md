@@ -35,6 +35,7 @@ If you want to contact me, please leave me a message!
 
 ### 🛠 Qualification
 - **Computer Graphics Operation Specialist (컴퓨터그래픽스운용기능사)** - acquisition date *(Jul 1. 2011)*
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
