@@ -54,13 +54,11 @@ If you want to contact me, please leave me a message!
 <br/>  
 
 
-
-
 </div>
 <br/>
-<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
+<h2> 🛠 Tech Stack 🛠 </h2>
 
-<div align="center" style="display:flex">
+<div style="display:flex">
      <h3> - Mainly used - </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
