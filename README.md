@@ -20,7 +20,7 @@
 
 I am a Front-End Developer from South Korea a.k.a Republic of Korea. <br/>
 I am interested in learning React, JavaScript, TypeScript, SPA, python and algorithm. <br/>
-My ultimate goal is to become a IT developer who can solve customers' problems.<br/>
+My ultimate goal is to become a dexterous IT developer who can solve customers' problems.<br/>
 
 If you want to contact me, please leave me a message!
 
@@ -28,21 +28,33 @@ If you want to contact me, please leave me a message!
 ### 💶 Education
 - **Bootcamp Hanghae99 (항해99)** - finished the curse  |  Learned ReactJS and finished several projects *(Mar 2021 ~ June 2021)*
 - **GIST (광주과학기술원)** - Master's Degree in Material Science and Engineering  |  using a simulation program in Linux *(Mar 2015 - Feb 2017)* 
-
 <br/>
+
 
 ### 🖋 Work Experience
 - **Sunbo Angel Partners (선보엔젤파트너스 | 스타트업 전문 투자기업)** - Intern in the investment planning team *(Apr 2018 ~ May 2018)*
-
 <br/>
+
 
 ### 🛠 Qualification
 - **Computer Graphics Operation Specialist (컴퓨터그래픽스운용기능사)** - acquisition date *(Jul 1. 2011)*
+<br/>
 
-    
-<div align="center" style="display:flex">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heo-mk&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=heo-mk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heo-mk&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+
+
 
 </div>
 <br/>
