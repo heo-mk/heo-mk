@@ -73,14 +73,11 @@ If you want to contact me, please leave me a message!
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
-
 <br/>
 
-<br/>
+<h2> 📲 Contact 📱 </h2>
 
-<h2 align="center"> 📲 Contact 📱 </h2>
-
-<p align="center">
+<p>
 <a href="mailto:alkesmse@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
