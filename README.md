@@ -24,19 +24,17 @@ My ultimate goal is to become a dexterous IT developer who can solve customers' 
 
 If you want to contact me, please leave me a message!
 <br/>
+<br/>
 
 ### 💶 Education
 - **Bootcamp Hanghae99 (항해99)** - finished the curse  |  Learned ReactJS and finished several projects *(Mar 2021 ~ June 2021)*
 - **GIST (광주과학기술원)** - Master's Degree in Material Science and Engineering  |  using a simulation program in Linux *(Mar 2015 - Feb 2017)* 
-<br/>
 
 ### 🖋 Work Experience
 - **Sunbo Angel Partners (선보엔젤파트너스 | 스타트업 전문 투자기업)** - Intern in the investment planning team *(Apr 2018 ~ May 2018)*
-<br/>
 
 ### 🛠 Qualification
 - **Computer Graphics Operation Specialist (컴퓨터그래픽스운용기능사)** - acquisition date *(Jul 1. 2011)*
-<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
