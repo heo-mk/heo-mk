@@ -16,7 +16,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://heo-dev-0229.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/tistory-%23000000.svg?&style=for-the-badge&logo=tistory&logoColor=white&color=e96413 alt=tistory style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/blog-tistory-orange?&style=for-the-badge&logo=tistory&logoColor=white&color=e96413 alt=tistory style="margin-bottom: 5px;" />
 </a>
 
 ### Hello, I'm Heo MinKyu!!
