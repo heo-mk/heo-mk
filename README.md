@@ -33,7 +33,7 @@ If you want to contact me, please leave me a message!
 ### 🖋 Work Experience
 - **Sunbo Angel Partners (선보엔젤파트너스 | 스타트업 전문 투자기업)** - Intern in the investment planning team *(Apr 2018 ~ May 2018)*
 
-### 🛠 Qualification
+### 🧾 Qualification
 - **Computer Graphics Operation Specialist (컴퓨터그래픽스운용기능사)** - acquisition date *(Jul 1. 2011)*
 <br/>
 
